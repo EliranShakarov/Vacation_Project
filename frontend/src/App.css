@@ -1,0 +1,16 @@
+.App{
+    height: 100%;
+    box-sizing: border-box; /* fix bug in browsers */
+    display: grid block;
+    grid-template-rows: 5% 90% 5%;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.App > header, .App > main, .App > footer{
+    grid-column: span 4;
+}
+
+.App > header{
+    border-bottom: 1px solid white;
+}
+

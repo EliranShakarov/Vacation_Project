@@ -1,0 +1,19 @@
+.Header {
+    height: 100%;
+    text-align: left;
+    direction: ltr;
+    color: white;
+}
+
+a:visited{
+    color:white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.helloMe{
+    position: relative;
+    margin: auto;
+}

@@ -1,0 +1,15 @@
+.AddVacation{
+    text-align: left;
+}
+
+.Box {
+    display: flex;
+    justify-content: center;
+    width:350px;
+    margin:50px auto;
+    padding: 10px;
+}
+
+.myValidColor {
+    color: red;
+}
