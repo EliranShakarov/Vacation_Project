@@ -1,4 +1,7 @@
 // Configuration
+//Admin user : administrator
+//Admin password : 1q2w3e4r
+
 //3100
 class Config { 
     public port = 3001; 
